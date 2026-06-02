@@ -46,4 +46,4 @@ Sales and profit are not evenly distributed, with certain regions and states con
 Reduce excessive discounting to improve profitability.
 Focus on high-performing categories like Office Supplies.
 Improve pricing strategy in Furniture category.
-Optimize regional strategy based on performance distribution
+Optimize regional strategy based on performance distribution.
